@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60fbd309-6cd2-4133-bc4b-cfb77889ddf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios Condicionais 28-35/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Condicionais 28-35/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Condicionais 28-35/ex030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Condicionais 28-35/ex031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Condicionais 28-35/ex032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Condicionais 28-35/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Condicionais 28-35/ex034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios Condicionais 28-35/ex035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +34,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Aula 012.executor": "Run",
+    "Python.ex 036.executor": "Run",
+    "Python.ex 037.executor": "Run",
+    "Python.ex 38.executor": "Run",
     "Python.ex003.executor": "Run",
     "Python.ex009.executor": "Run",
     "Python.ex010.executor": "Run",
@@ -70,6 +66,13 @@
     "Python.ex033.executor": "Run",
     "Python.ex034.executor": "Run",
     "Python.ex035.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex044.executor": "Run",
+    "Python.ex045.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -86,6 +89,7 @@
       <recent name="C:\Users\Pedro\Desktop\Programação\ExerciciosPython\Exercicios" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pedro\Desktop\Programação\ExerciciosPython\Mundo 2" />
       <recent name="C:\Users\Pedro\Desktop\Programação\ExerciciosPython\Exercicios " />
     </key>
   </component>
